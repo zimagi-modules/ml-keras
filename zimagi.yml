@@ -1,5 +1,5 @@
-name: ml-keras
+name: keras
 
 modules:
-    - remote: https://github.com/zimagi-modules/ml.git
+    - remote: https://github.com/zimagi-modules/ml-tensorflow.git
       reference: main
