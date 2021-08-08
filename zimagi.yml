@@ -1,0 +1,5 @@
+name: ml-keras
+
+modules:
+    - remote: https://github.com/zimagi-modules/ml.git
+      reference: main
