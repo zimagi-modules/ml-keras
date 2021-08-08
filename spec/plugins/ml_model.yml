@@ -1,0 +1,9 @@
+plugin:
+    ml_model:
+        providers:
+            keras:
+                option:
+                    data_provider:
+                        type: str
+                        help: "Data provider for the machine learning model"
+                        default: sequential
